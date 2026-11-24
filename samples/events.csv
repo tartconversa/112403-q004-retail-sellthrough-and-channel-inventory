@@ -1,0 +1,6 @@
+event,store,sku,kind,qty,at
+E1,S1,P1,receipt,100,2026-09-30
+E2,S1,P1,pos,35,2026-10-02
+E3,S2,P1,transfer-in,20,2026-10-03
+E4,S1,P1,transfer-out,20,2026-10-03
+E5,S1,P1,return,4,2026-10-05
