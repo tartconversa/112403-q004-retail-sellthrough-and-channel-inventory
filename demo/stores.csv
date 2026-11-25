@@ -1,0 +1,8 @@
+store,parent,region,state
+S1,D1,east,active
+S2,D1,east,active
+S3,D2,west,active
+S4,D2,west,active
+S5,D3,north,active
+S6,D3,north,active
+S7,D2,west,active

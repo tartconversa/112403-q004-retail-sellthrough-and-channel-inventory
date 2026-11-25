@@ -1,0 +1,46 @@
+[
+  {
+    "campaign": "C1",
+    "region": "east",
+    "sku": "P1",
+    "store": "S1",
+    "starts": "2026-10-15",
+    "ends": "2026-10-31",
+    "discount_pct": 15,
+    "confirmed": true,
+    "note": "端架陈列"
+  },
+  {
+    "campaign": "C2",
+    "region": "east",
+    "sku": "P2",
+    "store": "S1",
+    "starts": "2026-10-01",
+    "ends": "2026-10-31",
+    "discount_pct": 10,
+    "confirmed": true,
+    "note": "买赠"
+  },
+  {
+    "campaign": "C3",
+    "region": "west",
+    "sku": "P3",
+    "store": "S4",
+    "starts": "2026-10-10",
+    "ends": "2026-10-25",
+    "discount_pct": 12,
+    "confirmed": false,
+    "note": "待区域经理确认陈列范围"
+  },
+  {
+    "campaign": "C4",
+    "region": "west",
+    "sku": "P4",
+    "store": "S7",
+    "starts": "2026-10-20",
+    "ends": "2026-10-31",
+    "discount_pct": 8,
+    "confirmed": true,
+    "note": "新品尝鲜"
+  }
+]

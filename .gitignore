@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Runtime workspace state (confirmations, corrections, proposals, audit)
+workspace/

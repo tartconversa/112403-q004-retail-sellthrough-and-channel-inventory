@@ -1,0 +1,28 @@
+{
+  "open_orders": [
+    {
+      "store": "S2",
+      "sku": "P1",
+      "qty": 5
+    }
+  ],
+  "commitments": [
+    {
+      "store": "S5",
+      "sku": "P1",
+      "qty": 8
+    }
+  ],
+  "safety_stock": [
+    {
+      "store": "S1",
+      "sku": "P1",
+      "qty": 20
+    },
+    {
+      "store": "S5",
+      "sku": "P1",
+      "qty": 10
+    }
+  ]
+}
